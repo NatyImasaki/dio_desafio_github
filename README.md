@@ -1,2 +1,3 @@
-# dio_desafio_github
-Desafio de projeto Git/Github - Santander Bootcamp 2022
+# Desafio de Projeto sobre Git e GitHub da DIO 
+Repositório criado para o desafio de projeto de Git e GitHub do Santander Bootcamp 2022
+
